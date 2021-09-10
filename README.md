@@ -1,7 +1,16 @@
-- 👋 Hi, I’m @SuehtamM or just Matheus.
-- 👀 I’m interested in Python, Data Science and ML/AI
-- 🌱 I’m currently learning data analysis.
-- 📫 How to reach me: 
+Pt:
+Olá, Eu sou @SuehtamM ou só Matheus.
+Tenho interesse em Python, Data Science e ML/IA
+Atualmente estou estudando análise e visualização de dados
+Como entrar em contato comigo:
+Email -> suehtamm3@gmail.com
+LinkedIn -> https://www.linkedin.com/in/matheus-barra-suehtamm/
+
+En:
+Hi, I’m @SuehtamM or just Matheus.
+I’m interested in Python, Data Science and ML/AI
+I’m currently learning data analysis and visualization.
+How to reach me: 
 Email -> suehtamm3@gmail.com;
 LinkedIn -> https://www.linkedin.com/in/matheus-barra-suehtamm/
 
