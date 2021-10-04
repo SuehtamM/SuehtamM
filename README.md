@@ -10,7 +10,7 @@ En:
 Hi, I’m @SuehtamM or just Matheus.
 I’m interested in Python, Data Science and ML/AI.
 I’m currently learning data analysis/visualization and Machine Learning.
-How to reach me: 
+How to contact me: 
 Email -> suehtamm3@gmail.com;
 LinkedIn -> https://www.linkedin.com/in/matheus-barra-suehtamm/
 
