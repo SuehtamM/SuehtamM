@@ -1,18 +1,10 @@
 Pt:
-Olá, Eu sou Matheus (@SuehtamM).
-Tenho interesse em Python, Data Science, ML/IA, java e Anylogic.
-Atualmente estou estudando java e trabalhando com Anylogic.
-Como entrar em contato comigo:
-Email -> suehtamm3@gmail.com
-LinkedIn -> https://www.linkedin.com/in/matheus-barra-suehtamm/
+Olá, eu sou Matheus.
+Tenho interesse Anylogic e desenvolvimento de games com Godot/GDScript.
 
 En:
-Hi, I’m Matheus (@SuehtamM).
-I’m interested in Python, Data Science, ML/AI, java and Anylogic.
-I’m currently learning java and working with Anylogic.
-How to contact me: 
-Email -> suehtamm3@gmail.com;
-LinkedIn -> https://www.linkedin.com/in/matheus-barra-suehtamm/
+Hi, I’m Matheus.
+I’m interested in Anylogic and game development with Godot/GDScript.
 
 
 <!---
