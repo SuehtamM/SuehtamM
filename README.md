@@ -1,10 +1,10 @@
 Pt:
 Olá, eu sou Matheus.
-Tenho interesse Anylogic e desenvolvimento de games com Godot/GDScript.
+Tenho interesse em simulação com Anylogic e Engenharia de Dados. Como hobby, tento desenvolver alguns games simples usando a Godot Engine.
 
 En:
 Hi, I’m Matheus.
-I’m interested in Anylogic and game development with Godot/GDScript.
+I’m interested in simulation with Anylogic and Data Engineering. As a hobby, I try to develop some simple games using the Godot Engine.
 
 
 <!---
